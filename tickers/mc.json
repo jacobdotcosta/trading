@@ -1,0 +1,501 @@
+[
+    {
+        "title": "ACCIONA",
+        "ticker": "ANA"
+    },
+    {
+        "title": "ACCIONA ENERGIA",
+        "ticker": "ANE"
+    },
+    {
+        "title": "ACERINOX SA",
+        "ticker": "ACX"
+    },
+    {
+        "title": "ACS",
+        "ticker": "ACS"
+    },
+    {
+        "title": "ADOLFO DOMINGUEZ",
+        "ticker": "ADZ"
+    },
+    {
+        "title": "AEDAS HOMES",
+        "ticker": "AEDAS"
+    },
+    {
+        "title": "AENA",
+        "ticker": "AENA"
+    },
+    {
+        "title": "AIRBUS",
+        "ticker": "AIR"
+    },
+    {
+        "title": "AIRTIFICIAL INTEL STRUCT",
+        "ticker": "AI"
+    },
+    {
+        "title": "ALANTRA PARTNERS S.A.",
+        "ticker": "ALNT"
+    },
+    {
+        "title": "ALMIRALL",
+        "ticker": "ALM"
+    },
+    {
+        "title": "AMADEUS",
+        "ticker": "AMS"
+    },
+    {
+        "title": "AMPER",
+        "ticker": "AMP"
+    },
+    {
+        "title": "AMREST HOLDINGS",
+        "ticker": "EAT"
+    },
+    {
+        "title": "APERAM",
+        "ticker": "APAM"
+    },
+    {
+        "title": "ARCELORMITTAL",
+        "ticker": "MTS"
+    },
+    {
+        "title": "ATRESMEDIA",
+        "ticker": "A3M"
+    },
+    {
+        "title": "ATRYS HEALTH",
+        "ticker": "ATRY"
+    },
+    {
+        "title": "AUDAX RENOVABLES",
+        "ticker": "ADX"
+    },
+    {
+        "title": "AZKOYEN",
+        "ticker": "AZK"
+    },
+    {
+        "title": "BANCO DE BILBAO VIZCAYA",
+        "ticker": "BBVA"
+    },
+    {
+        "title": "BANCO DE SABADELL",
+        "ticker": "SAB"
+    },
+    {
+        "title": "BANCO SANTANDER",
+        "ticker": "SAN"
+    },
+    {
+        "title": "BANKINTER",
+        "ticker": "BKT"
+    },
+    {
+        "title": "BERKELEY ENERGIA",
+        "ticker": "BKY"
+    },
+    {
+        "title": "BIOSEARCH",
+        "ticker": "BIO"
+    },
+    {
+        "title": "BODEGAS RIOJANAS",
+        "ticker": "RIO"
+    },
+    {
+        "title": "BORGES",
+        "ticker": "BAIN"
+    },
+    {
+        "title": "BX GROUP INTERNATIONAL",
+        "ticker": "HBX"
+    },
+    {
+        "title": "CAIXABANK",
+        "ticker": "CABK"
+    },
+    {
+        "title": "CELLNEX TELECOM",
+        "ticker": "CLNX"
+    },
+    {
+        "title": "CEVASA A",
+        "ticker": "CEV"
+    },
+    {
+        "title": "CIE AUTOMOTIVE",
+        "ticker": "CIE"
+    },
+    {
+        "title": "CLEOP",
+        "ticker": "CLEO"
+    },
+    {
+        "title": "COCA-COLA EUROPEAN PARTNERS",
+        "ticker": "CCEP"
+    },
+    {
+        "title": "CONSTRUCCION Y AUXILIAR DE FER",
+        "ticker": "CAF"
+    },
+    {
+        "title": "CORPORACION FINANCIERA ALBA",
+        "ticker": "ALB"
+    },
+    {
+        "title": "COX ABG GROUP",
+        "ticker": "COXG"
+    },
+    {
+        "title": "CUOTAS PARTICIPATIVAS CAM",
+        "ticker": "CAM"
+    },
+    {
+        "title": "DEOLEO SA",
+        "ticker": "OLE"
+    },
+    {
+        "title": "DESARROLLOS ESPECIALES DE SIST",
+        "ticker": "DESA"
+    },
+    {
+        "title": "DIA",
+        "ticker": "DIA"
+    },
+    {
+        "title": "DURO FELGUERA",
+        "ticker": "MDF"
+    },
+    {
+        "title": "EBRO FOODS",
+        "ticker": "EBRO"
+    },
+    {
+        "title": "ECOENER",
+        "ticker": "ENER"
+    },
+    {
+        "title": "EDREAMS ODIGEO",
+        "ticker": "EDR"
+    },
+    {
+        "title": "ELECNOR",
+        "ticker": "ENO"
+    },
+    {
+        "title": "ENAGAS",
+        "ticker": "ENG"
+    },
+    {
+        "title": "ENCE ENERGIA Y CELULOSA",
+        "ticker": "ENC"
+    },
+    {
+        "title": "ENDESA",
+        "ticker": "ELE"
+    },
+    {
+        "title": "ERCROS",
+        "ticker": "ECR"
+    },
+    {
+        "title": "FAES FARMA",
+        "ticker": "FAE"
+    },
+    {
+        "title": "FERROVIAL SE",
+        "ticker": "FER"
+    },
+    {
+        "title": "FLUIDRA",
+        "ticker": "FDR"
+    },
+    {
+        "title": "FOMENTO DE CONSTRUCCIONES",
+        "ticker": "FCC"
+    },
+    {
+        "title": "GENERAL DE ALQUILER DE MAQUINA",
+        "ticker": "GAM"
+    },
+    {
+        "title": "GESTAMP AUTOM BR",
+        "ticker": "GEST"
+    },
+    {
+        "title": "GLOBAL DOMINION ACCESS",
+        "ticker": "DOM"
+    },
+    {
+        "title": "GRENERGY RENOVABLES",
+        "ticker": "GRE"
+    },
+    {
+        "title": "GRIFOLS CL.A",
+        "ticker": "GRF"
+    },
+    {
+        "title": "GRIFOLS CL.B", "ticker": "GRF.P"
+    },
+    {
+        "title": "GRUPO CATALANA OCCIDENTE",
+        "ticker": "GCO"
+    },
+    {
+        "title": "GRUPO CLINICA BAVIERA",
+        "ticker": "CBAV"
+    },
+    {
+        "title": "GRUPO EMPRESARIAL SAN JOSE",
+        "ticker": "GSJ"
+    },
+    {
+        "title": "GRUPO EZENTIS SA",
+        "ticker": "EZE"
+    },
+    {
+        "title": "IAG GROUP",
+        "ticker": "IAG"
+    },
+    {
+        "title": "IBERDROLA",
+        "ticker": "IBE"
+    },
+    {
+        "title": "IBERPAPEL GESTION",
+        "ticker": "IBG"
+    },
+    {
+        "title": "INDITEX",
+        "ticker": "ITX"
+    },
+    {
+        "title": "INDRA SISTEMAS",
+        "ticker": "IDR"
+    },
+    {
+        "title": "INMOBILIARIA COLONIAL",
+        "ticker": "COL"
+    },
+    {
+        "title": "INMOBILIARIA DEL SUR",
+        "ticker": "ISUR"
+    },
+    {
+        "title": "INMOCEMENTO",
+        "ticker": "IMC"
+    },
+    {
+        "title": "LABORATORIOS FARMACEUTICOS ROV",
+        "ticker": "ROVI"
+    },
+    {
+        "title": "LABORATORIOS REIG JOFRE",
+        "ticker": "RJF"
+    },
+    {
+        "title": "LIBERTAS 7",
+        "ticker": "LIB"
+    },
+    {
+        "title": "LINEA DIRECTA ASEGURADORA",
+        "ticker": "LDA"
+    },
+    {
+        "title": "LINGOTES ESPECIALES",
+        "ticker": "LGT"
+    },
+    {
+        "title": "LOGISTA INTEGRAL",
+        "ticker": "LOG"
+    },
+    {
+        "title": "MAPFRE",
+        "ticker": "MAP"
+    },
+    {
+        "title": "MELIA HOTELS",
+        "ticker": "MEL"
+    },
+    {
+        "title": "MERLIN PROPERTIES",
+        "ticker": "MRL"
+    },
+    {
+        "title": "METROVACESA",
+        "ticker": "MVC"
+    },
+    {
+        "title": "MFE-MEDIAFOREUROPE CL.A",
+        "ticker": "MFEA"
+    },
+    {
+        "title": "MIQUEL Y COSTAS MIQUEL",
+        "ticker": "MCM"
+    },
+    {
+        "title": "MONTEBALITO",
+        "ticker": "MTB"
+    },
+    {
+        "title": "NATURGY ENERGY",
+        "ticker": "NTGY"
+    },
+    {
+        "title": "NATURHOUSE HEALTH",
+        "ticker": "NTH"
+    },
+    {
+        "title": "NEINOR HOMES",
+        "ticker": "HOME"
+    },
+    {
+        "title": "NH HOTELES",
+        "ticker": "NHH"
+    },
+    {
+        "title": "NICOLAS CORREA",
+        "ticker": "NEA"
+    },
+    {
+        "title": "NUEVA EXPRESION TEXTIL SA",
+        "ticker": "NXT"
+    },
+    {
+        "title": "NYESA VALORES CORPORACION",
+        "ticker": "NYE"
+    },
+    {
+        "title": "OBRASCON HUARTE LAIN SA",
+        "ticker": "OHLA"
+    },
+    {
+        "title": "OPDENERGY HOLDING",
+        "ticker": "OPDE"
+    },
+    {
+        "title": "ORYZON GENOMICS",
+        "ticker": "ORY"
+    },
+    {
+        "title": "PESCANOVA",
+        "ticker": "PVA"
+    },
+    {
+        "title": "PHARMA MAR",
+        "ticker": "PHM"
+    },
+    {
+        "title": "PRIM",
+        "ticker": "PRM"
+    },
+    {
+        "title": "PROSEGUR CASH S.A.",
+        "ticker": "CASH"
+    },
+    {
+        "title": "PROSEGUR COMPANIA DE SEGURIDAD",
+        "ticker": "PSG"
+    },
+    {
+        "title": "PUIG BRANDS B RG",
+        "ticker": "PUIG"
+    },
+    {
+        "title": "QUABIT INMOBILIARIA",
+        "ticker": "QBT"
+    },
+    {
+        "title": "REALIA BUSINESS",
+        "ticker": "RLIA"
+    },
+    {
+        "title": "REDEIA CORP",
+        "ticker": "RED"
+    },
+    {
+        "title": "RENTA 4 BANCO",
+        "ticker": "R4"
+    },
+    {
+        "title": "RENTA CORPORACION REAL ESTATE",
+        "ticker": "REN"
+    },
+    {
+        "title": "REPSOL",
+        "ticker": "REP"
+    },
+    {
+        "title": "SACYR VALLEHERMOSO",
+        "ticker": "SCYR"
+    },
+    {
+        "title": "SERVICE POINT SOLUTIONS",
+        "ticker": "ISE"
+    },
+    {
+        "title": "SOLARIA ENERGIA Y MEDIO AMBIEN",
+        "ticker": "SLR"
+    },
+    {
+        "title": "SOLARPACK CORP BR",
+        "ticker": "SPK"
+    },
+    {
+        "title": "SQUIRREL MEDIA",
+        "ticker": "SQRL"
+    },
+    {
+        "title": "TALGO",
+        "ticker": "TLGO"
+    },
+    {
+        "title": "TECNICAS REUNIDAS",
+        "ticker": "TRE"
+    },
+    {
+        "title": "TEF DO 010621-150621",
+        "ticker": "TEF.D"
+    },
+    {
+        "title": "TELEFONICA",
+        "ticker": "TEF"
+    },
+    {
+        "title": "TUBACEX",
+        "ticker": "TUB"
+    },
+    {
+        "title": "TUBOS REUNIDOS",
+        "ticker": "TRG"
+    },
+    {
+        "title": "UNICAJA BANCO",
+        "ticker": "UNI"
+    },
+    {
+        "title": "URBAS GRUPO FINANCIERO",
+        "ticker": "UBS"
+    },
+    {
+        "title": "VIDRALA",
+        "ticker": "VID"
+    },
+    {
+        "title": "VISCOFAN",
+        "ticker": "VIS"
+    },
+    {
+        "title": "VOCENTO",
+        "ticker": "VOC"
+    },
+    {
+        "title": "ZARDOYA OTIS",
+        "ticker": "ZOT"
+    }
+]

@@ -1,0 +1,57 @@
+= Python for Finance
+:toc:       left
+:toc-title: Table of Contents
+:icons: font
+:description: This document describes the implementation of different applications.
+:source-highlighter: highlight.js
+
+
+
+== Requirements
+
+[.lead]
+Requirements to use this project.
+
+* Install Python 3
+* Install Python PIP
+* Install _Helm_
+
+[#python]
+=== Python
+
+Install Python 3 and PIP...
+
+[source,bash]
+----
+sudo dnf install python python-pip
+----
+
+Create a Python Virtual Environment.
+
+[source,bash]
+----
+python3.13 -m venv /z/venv_python_313_fi
+----
+
+Enter the Python Virtual Environment.
+
+[source,bash]
+----
+source ./venv/bin/activate
+----
+
+Install the Python requirements.
+
+[source,bash]
+----
+python -m pip install -r requirements.txt 
+----
+
+== References
+
+* Intro to Python for Finance: A Beginner's Guide
+: https://www.youtube.com/watch?v=uOqPElBsBmM&list=PLPe-_ytPHqyg4ap7hysD4pOBJMz0mnLly
+
+Free Code Camp
+
+* https://www.freecodecamp.org/news/algorithmic-trading-in-python/

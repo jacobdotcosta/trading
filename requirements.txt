@@ -1,0 +1,14 @@
+yfinance # yahoo finance
+pandas
+pandas_datareader
+datetime
+numpy
+matplotlib
+
+quandl
+
+requests
+
+html5lib
+lxml
+beautifulsoup4
